@@ -1,0 +1,496 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\luifsanc\\OneDrive - Escuela Superior Polit\u00E9cnica del Litoral\\Documentos\\Proyectos Portfolio\\ConsultorioSeguros\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9EE5BA62-8E4A-41F3-9226-3CF6FAC12175}|ConsultorioSeguros.csproj|c:\\users\\luifsanc\\onedrive - escuela superior polit\u00E9cnica del litoral\\documentos\\proyectos portfolio\\consultorioseguros\\data access\\clientesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EE5BA62-8E4A-41F3-9226-3CF6FAC12175}|ConsultorioSeguros.csproj|solutionrelative:data access\\clientesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EE5BA62-8E4A-41F3-9226-3CF6FAC12175}|ConsultorioSeguros.csproj|c:\\users\\luifsanc\\onedrive - escuela superior polit\u00E9cnica del litoral\\documentos\\proyectos portfolio\\consultorioseguros\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EE5BA62-8E4A-41F3-9226-3CF6FAC12175}|ConsultorioSeguros.csproj|solutionrelative:controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EE5BA62-8E4A-41F3-9226-3CF6FAC12175}|ConsultorioSeguros.csproj|c:\\users\\luifsanc\\onedrive - escuela superior polit\u00E9cnica del litoral\\documentos\\proyectos portfolio\\consultorioseguros\\views\\cliente\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9EE5BA62-8E4A-41F3-9226-3CF6FAC12175}|ConsultorioSeguros.csproj|solutionrelative:views\\cliente\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EE5BA62-8E4A-41F3-9226-3CF6FAC12175}|ConsultorioSeguros.csproj|c:\\users\\luifsanc\\onedrive - escuela superior polit\u00E9cnica del litoral\\documentos\\proyectos portfolio\\consultorioseguros\\views\\cliente\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9EE5BA62-8E4A-41F3-9226-3CF6FAC12175}|ConsultorioSeguros.csproj|solutionrelative:views\\cliente\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EE5BA62-8E4A-41F3-9226-3CF6FAC12175}|ConsultorioSeguros.csproj|c:\\users\\luifsanc\\onedrive - escuela superior polit\u00E9cnica del litoral\\documentos\\proyectos portfolio\\consultorioseguros\\views\\cliente\\clienteview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9EE5BA62-8E4A-41F3-9226-3CF6FAC12175}|ConsultorioSeguros.csproj|solutionrelative:views\\cliente\\clienteview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EE5BA62-8E4A-41F3-9226-3CF6FAC12175}|ConsultorioSeguros.csproj|c:\\users\\luifsanc\\onedrive - escuela superior polit\u00E9cnica del litoral\\documentos\\proyectos portfolio\\consultorioseguros\\controllers\\accesocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EE5BA62-8E4A-41F3-9226-3CF6FAC12175}|ConsultorioSeguros.csproj|solutionrelative:controllers\\accesocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EE5BA62-8E4A-41F3-9226-3CF6FAC12175}|ConsultorioSeguros.csproj|c:\\users\\luifsanc\\onedrive - escuela superior polit\u00E9cnica del litoral\\documentos\\proyectos portfolio\\consultorioseguros\\controllers\\segurocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EE5BA62-8E4A-41F3-9226-3CF6FAC12175}|ConsultorioSeguros.csproj|solutionrelative:controllers\\segurocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EE5BA62-8E4A-41F3-9226-3CF6FAC12175}|ConsultorioSeguros.csproj|c:\\users\\luifsanc\\onedrive - escuela superior polit\u00E9cnica del litoral\\documentos\\proyectos portfolio\\consultorioseguros\\controllers\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EE5BA62-8E4A-41F3-9226-3CF6FAC12175}|ConsultorioSeguros.csproj|solutionrelative:controllers\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EE5BA62-8E4A-41F3-9226-3CF6FAC12175}|ConsultorioSeguros.csproj|c:\\users\\luifsanc\\onedrive - escuela superior polit\u00E9cnica del litoral\\documentos\\proyectos portfolio\\consultorioseguros\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EE5BA62-8E4A-41F3-9226-3CF6FAC12175}|ConsultorioSeguros.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EE5BA62-8E4A-41F3-9226-3CF6FAC12175}|ConsultorioSeguros.csproj|c:\\users\\luifsanc\\onedrive - escuela superior polit\u00E9cnica del litoral\\documentos\\proyectos portfolio\\consultorioseguros\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9EE5BA62-8E4A-41F3-9226-3CF6FAC12175}|ConsultorioSeguros.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EE5BA62-8E4A-41F3-9226-3CF6FAC12175}|ConsultorioSeguros.csproj|c:\\users\\luifsanc\\onedrive - escuela superior polit\u00E9cnica del litoral\\documentos\\proyectos portfolio\\consultorioseguros\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9EE5BA62-8E4A-41F3-9226-3CF6FAC12175}|ConsultorioSeguros.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EE5BA62-8E4A-41F3-9226-3CF6FAC12175}|ConsultorioSeguros.csproj|c:\\users\\luifsanc\\onedrive - escuela superior polit\u00E9cnica del litoral\\documentos\\proyectos portfolio\\consultorioseguros\\views\\main\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9EE5BA62-8E4A-41F3-9226-3CF6FAC12175}|ConsultorioSeguros.csproj|solutionrelative:views\\main\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EE5BA62-8E4A-41F3-9226-3CF6FAC12175}|ConsultorioSeguros.csproj|c:\\users\\luifsanc\\onedrive - escuela superior polit\u00E9cnica del litoral\\documentos\\proyectos portfolio\\consultorioseguros\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9EE5BA62-8E4A-41F3-9226-3CF6FAC12175}|ConsultorioSeguros.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EE5BA62-8E4A-41F3-9226-3CF6FAC12175}|ConsultorioSeguros.csproj|c:\\users\\luifsanc\\onedrive - escuela superior polit\u00E9cnica del litoral\\documentos\\proyectos portfolio\\consultorioseguros\\data access\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EE5BA62-8E4A-41F3-9226-3CF6FAC12175}|ConsultorioSeguros.csproj|solutionrelative:data access\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EE5BA62-8E4A-41F3-9226-3CF6FAC12175}|ConsultorioSeguros.csproj|c:\\users\\luifsanc\\onedrive - escuela superior polit\u00E9cnica del litoral\\documentos\\proyectos portfolio\\consultorioseguros\\views\\acceso\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9EE5BA62-8E4A-41F3-9226-3CF6FAC12175}|ConsultorioSeguros.csproj|solutionrelative:views\\acceso\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EE5BA62-8E4A-41F3-9226-3CF6FAC12175}|ConsultorioSeguros.csproj|c:\\users\\luifsanc\\onedrive - escuela superior polit\u00E9cnica del litoral\\documentos\\proyectos portfolio\\consultorioseguros\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EE5BA62-8E4A-41F3-9226-3CF6FAC12175}|ConsultorioSeguros.csproj|solutionrelative:models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EE5BA62-8E4A-41F3-9226-3CF6FAC12175}|ConsultorioSeguros.csproj|c:\\users\\luifsanc\\onedrive - escuela superior polit\u00E9cnica del litoral\\documentos\\proyectos portfolio\\consultorioseguros\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EE5BA62-8E4A-41F3-9226-3CF6FAC12175}|ConsultorioSeguros.csproj|solutionrelative:migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EE5BA62-8E4A-41F3-9226-3CF6FAC12175}|ConsultorioSeguros.csproj|c:\\users\\luifsanc\\onedrive - escuela superior polit\u00E9cnica del litoral\\documentos\\proyectos portfolio\\consultorioseguros\\data access\\aseguradosegurorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EE5BA62-8E4A-41F3-9226-3CF6FAC12175}|ConsultorioSeguros.csproj|solutionrelative:data access\\aseguradosegurorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EE5BA62-8E4A-41F3-9226-3CF6FAC12175}|ConsultorioSeguros.csproj|c:\\users\\luifsanc\\onedrive - escuela superior polit\u00E9cnica del litoral\\documentos\\proyectos portfolio\\consultorioseguros\\models\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EE5BA62-8E4A-41F3-9226-3CF6FAC12175}|ConsultorioSeguros.csproj|solutionrelative:models\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EE5BA62-8E4A-41F3-9226-3CF6FAC12175}|ConsultorioSeguros.csproj|c:\\users\\luifsanc\\onedrive - escuela superior polit\u00E9cnica del litoral\\documentos\\proyectos portfolio\\consultorioseguros\\data access\\segurorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EE5BA62-8E4A-41F3-9226-3CF6FAC12175}|ConsultorioSeguros.csproj|solutionrelative:data access\\segurorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EE5BA62-8E4A-41F3-9226-3CF6FAC12175}|ConsultorioSeguros.csproj|c:\\users\\luifsanc\\onedrive - escuela superior polit\u00E9cnica del litoral\\documentos\\proyectos portfolio\\consultorioseguros\\data access\\registroventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EE5BA62-8E4A-41F3-9226-3CF6FAC12175}|ConsultorioSeguros.csproj|solutionrelative:data access\\registroventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EE5BA62-8E4A-41F3-9226-3CF6FAC12175}|ConsultorioSeguros.csproj|c:\\users\\luifsanc\\onedrive - escuela superior polit\u00E9cnica del litoral\\documentos\\proyectos portfolio\\consultorioseguros\\views\\seguro\\seguroview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9EE5BA62-8E4A-41F3-9226-3CF6FAC12175}|ConsultorioSeguros.csproj|solutionrelative:views\\seguro\\seguroview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EE5BA62-8E4A-41F3-9226-3CF6FAC12175}|ConsultorioSeguros.csproj|c:\\users\\luifsanc\\onedrive - escuela superior polit\u00E9cnica del litoral\\documentos\\proyectos portfolio\\consultorioseguros\\viewmodels\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EE5BA62-8E4A-41F3-9226-3CF6FAC12175}|ConsultorioSeguros.csproj|solutionrelative:viewmodels\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EE5BA62-8E4A-41F3-9226-3CF6FAC12175}|ConsultorioSeguros.csproj|c:\\users\\luifsanc\\onedrive - escuela superior polit\u00E9cnica del litoral\\documentos\\proyectos portfolio\\consultorioseguros\\views\\acceso\\registrarse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9EE5BA62-8E4A-41F3-9226-3CF6FAC12175}|ConsultorioSeguros.csproj|solutionrelative:views\\acceso\\registrarse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EE5BA62-8E4A-41F3-9226-3CF6FAC12175}|ConsultorioSeguros.csproj|c:\\users\\luifsanc\\onedrive - escuela superior polit\u00E9cnica del litoral\\documentos\\proyectos portfolio\\consultorioseguros\\models\\aseguradoseguro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EE5BA62-8E4A-41F3-9226-3CF6FAC12175}|ConsultorioSeguros.csproj|solutionrelative:models\\aseguradoseguro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EE5BA62-8E4A-41F3-9226-3CF6FAC12175}|ConsultorioSeguros.csproj|c:\\users\\luifsanc\\onedrive - escuela superior polit\u00E9cnica del litoral\\documentos\\proyectos portfolio\\consultorioseguros\\views\\cliente\\cargarexcel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9EE5BA62-8E4A-41F3-9226-3CF6FAC12175}|ConsultorioSeguros.csproj|solutionrelative:views\\cliente\\cargarexcel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EE5BA62-8E4A-41F3-9226-3CF6FAC12175}|ConsultorioSeguros.csproj|c:\\users\\luifsanc\\onedrive - escuela superior polit\u00E9cnica del litoral\\documentos\\proyectos portfolio\\consultorioseguros\\models\\seguros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EE5BA62-8E4A-41F3-9226-3CF6FAC12175}|ConsultorioSeguros.csproj|solutionrelative:models\\seguros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EE5BA62-8E4A-41F3-9226-3CF6FAC12175}|ConsultorioSeguros.csproj|c:\\users\\luifsanc\\onedrive - escuela superior polit\u00E9cnica del litoral\\documentos\\proyectos portfolio\\consultorioseguros\\migrations\\20240812022711_primera migracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EE5BA62-8E4A-41F3-9226-3CF6FAC12175}|ConsultorioSeguros.csproj|solutionrelative:migrations\\20240812022711_primera migracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 34,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\luifsanc\\OneDrive - Escuela Superior Polit\u00E9cnica del Litoral\\Documentos\\Proyectos Portfolio\\ConsultorioSeguros\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\luifsanc\\OneDrive - Escuela Superior Polit\u00E9cnica del Litoral\\Documentos\\Proyectos Portfolio\\ConsultorioSeguros\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "Controllers\\ClienteController.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAAAF8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T03:24:38.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\luifsanc\\OneDrive - Escuela Superior Polit\u00E9cnica del Litoral\\Documentos\\Proyectos Portfolio\\ConsultorioSeguros\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\luifsanc\\OneDrive - Escuela Superior Polit\u00E9cnica del Litoral\\Documentos\\Proyectos Portfolio\\ConsultorioSeguros\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAACpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-12T02:21:46.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Crear.cshtml",
+              "DocumentMoniker": "C:\\Users\\luifsanc\\OneDrive - Escuela Superior Polit\u00E9cnica del Litoral\\Documentos\\Proyectos Portfolio\\ConsultorioSeguros\\Views\\Main\\Crear.cshtml",
+              "RelativeDocumentMoniker": "Views\\Main\\Crear.cshtml",
+              "ToolTip": "C:\\Users\\luifsanc\\OneDrive - Escuela Superior Polit\u00E9cnica del Litoral\\Documentos\\Proyectos Portfolio\\ConsultorioSeguros\\Views\\Main\\Crear.cshtml",
+              "RelativeToolTip": "Views\\Main\\Crear.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T00:21:43.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClienteView.cshtml",
+              "DocumentMoniker": "C:\\Users\\luifsanc\\OneDrive - Escuela Superior Polit\u00E9cnica del Litoral\\Documentos\\Proyectos Portfolio\\ConsultorioSeguros\\Views\\Cliente\\ClienteView.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cliente\\ClienteView.cshtml",
+              "ToolTip": "C:\\Users\\luifsanc\\OneDrive - Escuela Superior Polit\u00E9cnica del Litoral\\Documentos\\Proyectos Portfolio\\ConsultorioSeguros\\Views\\Cliente\\ClienteView.cshtml",
+              "RelativeToolTip": "Views\\Cliente\\ClienteView.cshtml",
+              "ViewState": "AQIAABAAAAAAAAAAAIBJwFgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T02:49:30.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Crear.cshtml",
+              "DocumentMoniker": "C:\\Users\\luifsanc\\OneDrive - Escuela Superior Polit\u00E9cnica del Litoral\\Documentos\\Proyectos Portfolio\\ConsultorioSeguros\\Views\\Cliente\\Crear.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cliente\\Crear.cshtml",
+              "ToolTip": "C:\\Users\\luifsanc\\OneDrive - Escuela Superior Polit\u00E9cnica del Litoral\\Documentos\\Proyectos Portfolio\\ConsultorioSeguros\\Views\\Cliente\\Crear.cshtml",
+              "RelativeToolTip": "Views\\Cliente\\Crear.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T02:49:24.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "C:\\Users\\luifsanc\\OneDrive - Escuela Superior Polit\u00E9cnica del Litoral\\Documentos\\Proyectos Portfolio\\ConsultorioSeguros\\Views\\Cliente\\Editar.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cliente\\Editar.cshtml",
+              "ToolTip": "C:\\Users\\luifsanc\\OneDrive - Escuela Superior Polit\u00E9cnica del Litoral\\Documentos\\Proyectos Portfolio\\ConsultorioSeguros\\Views\\Cliente\\Editar.cshtml",
+              "RelativeToolTip": "Views\\Cliente\\Editar.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T02:49:27.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\luifsanc\\OneDrive - Escuela Superior Polit\u00E9cnica del Litoral\\Documentos\\Proyectos Portfolio\\ConsultorioSeguros\\Data Access\\ClientesRepository.cs",
+              "RelativeDocumentMoniker": "Data Access\\ClientesRepository.cs",
+              "ToolTip": "C:\\Users\\luifsanc\\OneDrive - Escuela Superior Polit\u00E9cnica del Litoral\\Documentos\\Proyectos Portfolio\\ConsultorioSeguros\\Data Access\\ClientesRepository.cs",
+              "RelativeToolTip": "Data Access\\ClientesRepository.cs",
+              "ViewState": "AQIAAJgAAAAAAAAAAAAAAKAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T00:09:27.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\luifsanc\\OneDrive - Escuela Superior Polit\u00E9cnica del Litoral\\Documentos\\Proyectos Portfolio\\ConsultorioSeguros\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\luifsanc\\OneDrive - Escuela Superior Polit\u00E9cnica del Litoral\\Documentos\\Proyectos Portfolio\\ConsultorioSeguros\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T03:48:22.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\luifsanc\\OneDrive - Escuela Superior Polit\u00E9cnica del Litoral\\Documentos\\Proyectos Portfolio\\ConsultorioSeguros\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\luifsanc\\OneDrive - Escuela Superior Polit\u00E9cnica del Litoral\\Documentos\\Proyectos Portfolio\\ConsultorioSeguros\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAwwCoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-30T03:37:48.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccesoController.cs",
+              "DocumentMoniker": "C:\\Users\\luifsanc\\OneDrive - Escuela Superior Polit\u00E9cnica del Litoral\\Documentos\\Proyectos Portfolio\\ConsultorioSeguros\\Controllers\\AccesoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccesoController.cs",
+              "ToolTip": "C:\\Users\\luifsanc\\OneDrive - Escuela Superior Polit\u00E9cnica del Litoral\\Documentos\\Proyectos Portfolio\\ConsultorioSeguros\\Controllers\\AccesoController.cs",
+              "RelativeToolTip": "Controllers\\AccesoController.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAawEQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T03:47:23.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SeguroController.cs",
+              "DocumentMoniker": "C:\\Users\\luifsanc\\OneDrive - Escuela Superior Polit\u00E9cnica del Litoral\\Documentos\\Proyectos Portfolio\\ConsultorioSeguros\\Controllers\\SeguroController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SeguroController.cs",
+              "ToolTip": "C:\\Users\\luifsanc\\OneDrive - Escuela Superior Polit\u00E9cnica del Litoral\\Documentos\\Proyectos Portfolio\\ConsultorioSeguros\\Controllers\\SeguroController.cs",
+              "RelativeToolTip": "Controllers\\SeguroController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAgwBAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T02:32:36.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainController.cs",
+              "DocumentMoniker": "C:\\Users\\luifsanc\\OneDrive - Escuela Superior Polit\u00E9cnica del Litoral\\Documentos\\Proyectos Portfolio\\ConsultorioSeguros\\Controllers\\MainController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MainController.cs",
+              "ToolTip": "C:\\Users\\luifsanc\\OneDrive - Escuela Superior Polit\u00E9cnica del Litoral\\Documentos\\Proyectos Portfolio\\ConsultorioSeguros\\Controllers\\MainController.cs",
+              "RelativeToolTip": "Controllers\\MainController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T03:24:38.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\luifsanc\\OneDrive - Escuela Superior Polit\u00E9cnica del Litoral\\Documentos\\Proyectos Portfolio\\ConsultorioSeguros\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\luifsanc\\OneDrive - Escuela Superior Polit\u00E9cnica del Litoral\\Documentos\\Proyectos Portfolio\\ConsultorioSeguros\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-30T03:15:45.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AseguradoSeguroRepository.cs",
+              "DocumentMoniker": "C:\\Users\\luifsanc\\OneDrive - Escuela Superior Polit\u00E9cnica del Litoral\\Documentos\\Proyectos Portfolio\\ConsultorioSeguros\\Data Access\\AseguradoSeguroRepository.cs",
+              "RelativeDocumentMoniker": "Data Access\\AseguradoSeguroRepository.cs",
+              "ToolTip": "C:\\Users\\luifsanc\\OneDrive - Escuela Superior Polit\u00E9cnica del Litoral\\Documentos\\Proyectos Portfolio\\ConsultorioSeguros\\Data Access\\AseguradoSeguroRepository.cs",
+              "RelativeToolTip": "Data Access\\AseguradoSeguroRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAADCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T02:25:57.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\luifsanc\\OneDrive - Escuela Superior Polit\u00E9cnica del Litoral\\Documentos\\Proyectos Portfolio\\ConsultorioSeguros\\Data Access\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data Access\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\luifsanc\\OneDrive - Escuela Superior Polit\u00E9cnica del Litoral\\Documentos\\Proyectos Portfolio\\ConsultorioSeguros\\Data Access\\AppDbContext.cs",
+              "RelativeToolTip": "Data Access\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T01:05:14.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\luifsanc\\OneDrive - Escuela Superior Polit\u00E9cnica del Litoral\\Documentos\\Proyectos Portfolio\\ConsultorioSeguros\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\luifsanc\\OneDrive - Escuela Superior Polit\u00E9cnica del Litoral\\Documentos\\Proyectos Portfolio\\ConsultorioSeguros\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T02:44:05.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\luifsanc\\OneDrive - Escuela Superior Polit\u00E9cnica del Litoral\\Documentos\\Proyectos Portfolio\\ConsultorioSeguros\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\luifsanc\\OneDrive - Escuela Superior Polit\u00E9cnica del Litoral\\Documentos\\Proyectos Portfolio\\ConsultorioSeguros\\Models\\Usuario.cs",
+              "RelativeToolTip": "Models\\Usuario.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAmwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T02:44:47.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\luifsanc\\OneDrive - Escuela Superior Polit\u00E9cnica del Litoral\\Documentos\\Proyectos Portfolio\\ConsultorioSeguros\\Views\\Acceso\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Acceso\\Login.cshtml",
+              "ToolTip": "C:\\Users\\luifsanc\\OneDrive - Escuela Superior Polit\u00E9cnica del Litoral\\Documentos\\Proyectos Portfolio\\ConsultorioSeguros\\Views\\Acceso\\Login.cshtml",
+              "RelativeToolTip": "Views\\Acceso\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAiwAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T05:36:37.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SeguroRepository.cs",
+              "DocumentMoniker": "C:\\Users\\luifsanc\\OneDrive - Escuela Superior Polit\u00E9cnica del Litoral\\Documentos\\Proyectos Portfolio\\ConsultorioSeguros\\Data Access\\SeguroRepository.cs",
+              "RelativeDocumentMoniker": "Data Access\\SeguroRepository.cs",
+              "ToolTip": "C:\\Users\\luifsanc\\OneDrive - Escuela Superior Polit\u00E9cnica del Litoral\\Documentos\\Proyectos Portfolio\\ConsultorioSeguros\\Data Access\\SeguroRepository.cs",
+              "RelativeToolTip": "Data Access\\SeguroRepository.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAwwEsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T00:00:05.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Clientes.cs",
+              "DocumentMoniker": "C:\\Users\\luifsanc\\OneDrive - Escuela Superior Polit\u00E9cnica del Litoral\\Documentos\\Proyectos Portfolio\\ConsultorioSeguros\\Models\\Clientes.cs",
+              "RelativeDocumentMoniker": "Models\\Clientes.cs",
+              "ToolTip": "C:\\Users\\luifsanc\\OneDrive - Escuela Superior Polit\u00E9cnica del Litoral\\Documentos\\Proyectos Portfolio\\ConsultorioSeguros\\Models\\Clientes.cs",
+              "RelativeToolTip": "Models\\Clientes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T05:01:25.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RegistroVentaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\luifsanc\\OneDrive - Escuela Superior Polit\u00E9cnica del Litoral\\Documentos\\Proyectos Portfolio\\ConsultorioSeguros\\Data Access\\RegistroVentaRepository.cs",
+              "RelativeDocumentMoniker": "Data Access\\RegistroVentaRepository.cs",
+              "ToolTip": "C:\\Users\\luifsanc\\OneDrive - Escuela Superior Polit\u00E9cnica del Litoral\\Documentos\\Proyectos Portfolio\\ConsultorioSeguros\\Data Access\\RegistroVentaRepository.cs",
+              "RelativeToolTip": "Data Access\\RegistroVentaRepository.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwAkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T00:07:09.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SeguroView.cshtml",
+              "DocumentMoniker": "C:\\Users\\luifsanc\\OneDrive - Escuela Superior Polit\u00E9cnica del Litoral\\Documentos\\Proyectos Portfolio\\ConsultorioSeguros\\Views\\Seguro\\SeguroView.cshtml",
+              "RelativeDocumentMoniker": "Views\\Seguro\\SeguroView.cshtml",
+              "ToolTip": "C:\\Users\\luifsanc\\OneDrive - Escuela Superior Polit\u00E9cnica del Litoral\\Documentos\\Proyectos Portfolio\\ConsultorioSeguros\\Views\\Seguro\\SeguroView.cshtml",
+              "RelativeToolTip": "Views\\Seguro\\SeguroView.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-13T00:25:14.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CargarExcel.cshtml",
+              "DocumentMoniker": "C:\\Users\\luifsanc\\OneDrive - Escuela Superior Polit\u00E9cnica del Litoral\\Documentos\\Proyectos Portfolio\\ConsultorioSeguros\\Views\\Cliente\\CargarExcel.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cliente\\CargarExcel.cshtml",
+              "ToolTip": "C:\\Users\\luifsanc\\OneDrive - Escuela Superior Polit\u00E9cnica del Litoral\\Documentos\\Proyectos Portfolio\\ConsultorioSeguros\\Views\\Cliente\\CargarExcel.cshtml",
+              "RelativeToolTip": "Views\\Cliente\\CargarExcel.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T05:31:07.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\luifsanc\\OneDrive - Escuela Superior Polit\u00E9cnica del Litoral\\Documentos\\Proyectos Portfolio\\ConsultorioSeguros\\ViewModels\\Login.cs",
+              "RelativeDocumentMoniker": "ViewModels\\Login.cs",
+              "ToolTip": "C:\\Users\\luifsanc\\OneDrive - Escuela Superior Polit\u00E9cnica del Litoral\\Documentos\\Proyectos Portfolio\\ConsultorioSeguros\\ViewModels\\Login.cs",
+              "RelativeToolTip": "ViewModels\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T05:18:21.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Registrarse.cshtml",
+              "DocumentMoniker": "C:\\Users\\luifsanc\\OneDrive - Escuela Superior Polit\u00E9cnica del Litoral\\Documentos\\Proyectos Portfolio\\ConsultorioSeguros\\Views\\Acceso\\Registrarse.cshtml",
+              "RelativeDocumentMoniker": "Views\\Acceso\\Registrarse.cshtml",
+              "ToolTip": "C:\\Users\\luifsanc\\OneDrive - Escuela Superior Polit\u00E9cnica del Litoral\\Documentos\\Proyectos Portfolio\\ConsultorioSeguros\\Views\\Acceso\\Registrarse.cshtml",
+              "RelativeToolTip": "Views\\Acceso\\Registrarse.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAIBJwBoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T02:36:37.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AseguradoSeguro.cs",
+              "DocumentMoniker": "C:\\Users\\luifsanc\\OneDrive - Escuela Superior Polit\u00E9cnica del Litoral\\Documentos\\Proyectos Portfolio\\ConsultorioSeguros\\Models\\AseguradoSeguro.cs",
+              "RelativeDocumentMoniker": "Models\\AseguradoSeguro.cs",
+              "ToolTip": "C:\\Users\\luifsanc\\OneDrive - Escuela Superior Polit\u00E9cnica del Litoral\\Documentos\\Proyectos Portfolio\\ConsultorioSeguros\\Models\\AseguradoSeguro.cs",
+              "RelativeToolTip": "Models\\AseguradoSeguro.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T05:36:10.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Seguros.cs",
+              "DocumentMoniker": "C:\\Users\\luifsanc\\OneDrive - Escuela Superior Polit\u00E9cnica del Litoral\\Documentos\\Proyectos Portfolio\\ConsultorioSeguros\\Models\\Seguros.cs",
+              "RelativeDocumentMoniker": "Models\\Seguros.cs",
+              "ToolTip": "C:\\Users\\luifsanc\\OneDrive - Escuela Superior Polit\u00E9cnica del Litoral\\Documentos\\Proyectos Portfolio\\ConsultorioSeguros\\Models\\Seguros.cs",
+              "RelativeToolTip": "Models\\Seguros.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T05:26:44.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20240812022711_Primera Migracion.cs",
+              "DocumentMoniker": "C:\\Users\\luifsanc\\OneDrive - Escuela Superior Polit\u00E9cnica del Litoral\\Documentos\\Proyectos Portfolio\\ConsultorioSeguros\\Migrations\\20240812022711_Primera Migracion.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240812022711_Primera Migracion.cs",
+              "ToolTip": "C:\\Users\\luifsanc\\OneDrive - Escuela Superior Polit\u00E9cnica del Litoral\\Documentos\\Proyectos Portfolio\\ConsultorioSeguros\\Migrations\\20240812022711_Primera Migracion.cs",
+              "RelativeToolTip": "Migrations\\20240812022711_Primera Migracion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T02:27:12.203Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

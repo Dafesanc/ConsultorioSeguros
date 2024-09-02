@@ -1,0 +1,86 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewBag.Title = "Registrar Cliente Asegurado";
+}
+@model AseguradoSeguro
+<h2 class="text-center">Registrar Cliente Asegurado</h2>
+
+@if (TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success">
+        @TempData["SuccessMessage"]
+    </div>
+}
+
+@if (TempData["ErrorMessage"] != null)
+{
+    <div class="alert alert-danger">
+        @TempData["ErrorMessage"]
+    </div>
+}
+<div class="form-group">
+    <label for="ClienteId">Nombre del Cliente</label>
+    <select id="ClienteId" class="form-control" onchange="cargarCliente(this.value)">
+        <option value="">Seleccione un cliente...</option>
+        @foreach (var cliente in ViewBag.Clientes)
+        {
+            <option value="@cliente.Id" data-cedula="@cliente.Cedula">@cliente.Nombre</option>
+        }
+    </select>
+    <label for="NombreSeguro">Nombre del Seguro</label>
+    <select id="NombreSeguro" class="form-control" onchange="cargarSeguro(this.value)">
+        <option value="">Selecciona un seguro a asignar...</option>
+        @foreach (var seguro in ViewBag.Seguros)
+        {
+            <option value="@seguro.SeguroId">@seguro.NombreSeguro</option>
+        }
+    </select>
+</div>
+<form asp-controller="Main" asp-action="Crear" method="post">
+    <div class="form-group">
+        <label for="AseguradoId">ID Cliente</label>
+        <input type="number" id="AseguradoId" name="AseguradoId" class="form-control" asp-for="AseguradoId" required readonly/>
+    </div>
+    <div class="form-group">
+        <label for="CedulaAsegurado">Cédula</label>
+        <input type="text" id="CedulaAsegurado" name="CedulaAsegurado" class="form-control" asp-for="CedulaAsegurado" required readonly />
+    </div>
+    <div class="form-group">
+        <label for="SeguroId">ID Seguro</label>
+        <input type="number" id="SeguroId" name="SeguroId" class="form-control" asp-for="SeguroId" required readonly />
+    </div>
+    <div class="form-group">
+        <label for="FechaContratacion">Fecha de Contratación</label>
+        <input type="date" id="FechaContratacion" name="FechaContratacion" class="form-control" asp-for="FechaContratacion" required />
+    </div>
+    <button type="submit" class="btn btn-primary">Registrar</button>
+</form>
+
+@section Scripts {
+    <script>
+        function cargarCliente(clienteId) {
+            var clienteSeleccionado = document.querySelector(`#ClienteId option[value='${clienteId}']`);
+            if (clienteSeleccionado) {
+                document.getElementById("AseguradoId").value = clienteId;
+                document.getElementById("CedulaAsegurado").value = clienteSeleccionado.getAttribute("data-cedula");
+            } else {
+                document.getElementById("AseguradoId").value = "";
+                document.getElementById("CedulaAsegurado").value = "";
+            }
+        }
+    </script>
+    <script>
+        function cargarSeguro(NombreSeguro) {
+            var seguroSeleccionado = document.querySelector(`#ClienteId option[value='${NombreSeguro}']`);
+            if (seguroSeleccionado) {
+                document.getElementById("SeguroId").value = NombreSeguro;
+            } else {
+                document.getElementById("SeguroId").value = "";
+            }
+
+
+        }
+    </script>
+}

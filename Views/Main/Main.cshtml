@@ -1,0 +1,96 @@
+﻿@model IEnumerable<RegistroVenta>
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewBag.Title = "Listado de Seguros por Asegurado";
+
+}
+<h2 class="text-center">Registro de clientes Asegurados</h2>
+<div class="my-3">
+    <a asp-controller="Main" asp-action="Crear" class="btn btn-success"><i class="fa-solid fa-plus"></i>Nuevo</a>
+</div>
+
+<div class="mb-4 mt-1 d-flex justify-content-between">
+    <div class="col-md-4">
+        <input type="text" id="cedulaSearch" class="form-control" placeholder="Buscar por Cédula...">
+    </div>
+    <div class="col-md-4">
+        <input type="text" id="codigoSearch" class="form-control" placeholder="Buscar por Código...">
+    </div>
+</div>
+@* <div class="row mb-4">
+    <div class="col-md-4">
+        <input type="text" id="search-input" class="form-control" placeholder="Buscar por cédula...">
+    </div>
+    <div class="col-md-4">
+        <button class="btn btn-primary" id="search-btn">Buscar</button>
+    </div>
+</div> *@
+
+<div class="table-responsive mt-4">
+    <table class="table table-bordered table-striped table-hover border-5 ">
+        <thead class="thead-dark">
+            <tr>
+                <th>Nombre del Cliente</th>
+                <th>Cédula</th>
+                <th>Nombre del Seguro</th>
+                <th>Fecha de Contratación</th>
+                <th>Suma Asegurada</th>
+                <th>Codigo Seguro</th>
+            </tr>
+        </thead>
+        <tbody id="registroTable">
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.NombreCliente</td>
+                    <td class="cedulaColumn">@item.CedulaCliente</td>
+                    <td>@item.NombreSeguro</td>
+                    <td>@item.FechaContratacion.ToShortDateString()</td>
+                    <td>@item.SumaAsegurada.ToString("C")</td>
+                    <td class="codigocolumn">@item.CodigoSeguro</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+@section Scripts{
+    <script>
+        document.getElementById("cedulaSearch").addEventListener("keyup", function () {
+            filterTable("cedulaColumn", this.value);
+        });
+
+        document.getElementById("codigoSearch").addEventListener("keyup", function () {
+            filterTable("codigocolumn", this.value);
+        });
+
+        function filterTable(columnClass, filterValue) {
+            var filter, table, tr, td, i, txtValue;
+            filter = filterValue.toUpperCase();
+            table = document.getElementById("registroTable");
+            tr = table.getElementsByTagName("tr");
+
+            for (i = 0; i < tr.length; i++) {
+                td = tr[i].getElementsByClassName(columnClass)[0];
+                if (td) {
+                    txtValue = td.textContent || td.innerText;
+                    if (txtValue.toUpperCase().indexOf(filter) > -1) {
+                        tr[i].style.display = "";
+                    } else {
+                        tr[i].style.display = "none";
+                    }
+                }
+            }
+        }
+    </script>
+
+}
+
+<style>
+
+    .btn-success i, .btn-primary i {
+        margin-right: 5px;
+        margin-left: 1px;
+    }
+</style>

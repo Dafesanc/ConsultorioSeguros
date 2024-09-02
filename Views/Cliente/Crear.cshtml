@@ -1,0 +1,41 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@model Clientes
+<div class="row">
+    <div class="col-sm-8 offset-sm-2">
+        <h1 class="bg-light">Nuevo Cliente</h1>
+        <form asp-controller="Cliente" asp-action="Crear" method="post">
+            <div class="mb-3">
+                <label>Cedula Cliente</label>
+                <input class="form-control" asp-for="Cedula" type="text" pattern="\d*" title="Por favor, ingrese solo números." required />
+                <label></label>
+            </div>
+            <div class="mb-3">
+                <label>Nombre Cliente</label>
+                <input class="form-control" asp-for="Nombre" type="text" required/>
+                <label></label>
+            </div>
+            <div class="mb-3">
+                <label>Telefono</label>
+                <input class="form-control" asp-for="Telefono" type="text" pattern="\d*" required title="Por favor, ingrese solo números." />
+                <label></label>
+            </div>
+            <div class="mb-3">
+                <label>Edad</label>
+                <input class="form-control" asp-for="Edad" type="number" required/>
+                <label></label>
+            </div>
+            <div class="mb-3">
+                <button class="btn btn-primary" type="submit">
+                    Guardar
+                </button>
+                <a asp-controller="Cliente" asp-action="ClienteView" class="btn btn-dark">Cancelar</a>
+
+            </div>
+        </form>
+    </div>
+</div>

@@ -1,0 +1,41 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+@model Seguros
+<div class="row">
+   <div class="col-sm-8 offset-sm-2">
+       <h1 class="bg-light">Nuevo Seguro</h1>
+       <form asp-controller="Seguro" asp-action="Crear" method="post">
+           <div class="mb-3">
+               <label>Nombre Seguro</label>
+               <input class="form-control" asp-for="NombreSeguro" type="text" required />
+               <label></label>
+           </div>
+            <div class="mb-3">
+                <label>Codigo Seguro</label>
+                <input class="form-control" asp-for="CodigoSeguro" type="text" required />
+                <label></label>
+            </div>
+            <div class="mb-3">
+                <label>Suma Asegurada</label>
+                <input class="form-control" asp-for="SumaAsegurada" type="text" required pattern="^\d+(\.\d{1,2})?$" title="Por favor, ingrese solo números con '.' como separador decimal." />
+                <label></label>
+            </div>
+            <div class="mb-3">
+                <label>Prima Seguro</label>
+                <input class="form-control" asp-for="Prima" type="text" required pattern="^\d+(\.\d{1,2})?$" title="Por favor, ingrese solo números con '.' como separador decimal." />
+                <label></label>
+            </div>
+            <div class="mb-3">
+                <button class="btn btn-primary" type="submit">
+                    Guardar
+                </button>
+                <a asp-controller="Seguro" asp-action="SeguroView" class="btn btn-dark">Cancelar</a>
+                
+            </div>
+       </form>
+   </div>
+</div>

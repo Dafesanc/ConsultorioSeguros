@@ -1,0 +1,99 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ConsultorioSeguros
+build_property.RootNamespace = ConsultorioSeguros
+build_property.ProjectDir = C:\Users\luifsanc\OneDrive - Escuela Superior Politécnica del Litoral\Documentos\Proyectos Portfolio\ConsultorioSeguros\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\luifsanc\OneDrive - Escuela Superior Politécnica del Litoral\Documentos\Proyectos Portfolio\ConsultorioSeguros
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/luifsanc/OneDrive - Escuela Superior Politécnica del Litoral/Documentos/Proyectos Portfolio/ConsultorioSeguros/Views/Acceso/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjZXNvXExvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luifsanc/OneDrive - Escuela Superior Politécnica del Litoral/Documentos/Proyectos Portfolio/ConsultorioSeguros/Views/Acceso/RecuperarContraseña.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjZXNvXFJlY3VwZXJhckNvbnRyYXNlw7FhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luifsanc/OneDrive - Escuela Superior Politécnica del Litoral/Documentos/Proyectos Portfolio/ConsultorioSeguros/Views/Acceso/Registrarse.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjZXNvXFJlZ2lzdHJhcnNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luifsanc/OneDrive - Escuela Superior Politécnica del Litoral/Documentos/Proyectos Portfolio/ConsultorioSeguros/Views/Cliente/CargarExcel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxDYXJnYXJFeGNlbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luifsanc/OneDrive - Escuela Superior Politécnica del Litoral/Documentos/Proyectos Portfolio/ConsultorioSeguros/Views/Cliente/ClienteView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxDbGllbnRlVmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luifsanc/OneDrive - Escuela Superior Politécnica del Litoral/Documentos/Proyectos Portfolio/ConsultorioSeguros/Views/Cliente/Crear.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxDcmVhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luifsanc/OneDrive - Escuela Superior Politécnica del Litoral/Documentos/Proyectos Portfolio/ConsultorioSeguros/Views/Cliente/Editar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxFZGl0YXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luifsanc/OneDrive - Escuela Superior Politécnica del Litoral/Documentos/Proyectos Portfolio/ConsultorioSeguros/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luifsanc/OneDrive - Escuela Superior Politécnica del Litoral/Documentos/Proyectos Portfolio/ConsultorioSeguros/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luifsanc/OneDrive - Escuela Superior Politécnica del Litoral/Documentos/Proyectos Portfolio/ConsultorioSeguros/Views/Main/Crear.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFpblxDcmVhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luifsanc/OneDrive - Escuela Superior Politécnica del Litoral/Documentos/Proyectos Portfolio/ConsultorioSeguros/Views/Main/Main.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFpblxNYWluLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luifsanc/OneDrive - Escuela Superior Politécnica del Litoral/Documentos/Proyectos Portfolio/ConsultorioSeguros/Views/Seguro/CargarExcel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VndXJvXENhcmdhckV4Y2VsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luifsanc/OneDrive - Escuela Superior Politécnica del Litoral/Documentos/Proyectos Portfolio/ConsultorioSeguros/Views/Seguro/Crear.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VndXJvXENyZWFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luifsanc/OneDrive - Escuela Superior Politécnica del Litoral/Documentos/Proyectos Portfolio/ConsultorioSeguros/Views/Seguro/Editar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VndXJvXEVkaXRhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luifsanc/OneDrive - Escuela Superior Politécnica del Litoral/Documentos/Proyectos Portfolio/ConsultorioSeguros/Views/Seguro/SeguroView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VndXJvXFNlZ3Vyb1ZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luifsanc/OneDrive - Escuela Superior Politécnica del Litoral/Documentos/Proyectos Portfolio/ConsultorioSeguros/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luifsanc/OneDrive - Escuela Superior Politécnica del Litoral/Documentos/Proyectos Portfolio/ConsultorioSeguros/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luifsanc/OneDrive - Escuela Superior Politécnica del Litoral/Documentos/Proyectos Portfolio/ConsultorioSeguros/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luifsanc/OneDrive - Escuela Superior Politécnica del Litoral/Documentos/Proyectos Portfolio/ConsultorioSeguros/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luifsanc/OneDrive - Escuela Superior Politécnica del Litoral/Documentos/Proyectos Portfolio/ConsultorioSeguros/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-n99p488dyj
